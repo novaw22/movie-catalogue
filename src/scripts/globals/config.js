@@ -1,6 +1,6 @@
 const CONFIG = {
   KEY: '0091bf596694888e1dc7b0ba8403ff50',
-  BASE_URL: 'https://api.themoviedb.org/3/',
+  BASE_URL: 'https://proxy.cors.sh/https://api.themoviedb.org/3/',
   BASE_IMAGE_URL: 'https://image.tmdb.org/t/p/w500/',
   DEFAULT_LANGUAGE: 'en-us',
   CACHE_NAME: 'MovieCatalogue-V1',
